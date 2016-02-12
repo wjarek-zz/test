@@ -5,4 +5,4 @@
 
 This is tutorial 1
 
-[Link to tutorial 2] (../t2)
+[Link to tutorial 2](../t2)
