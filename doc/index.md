@@ -5,5 +5,5 @@
 
 Yey!
 
-[Link to nested](nested.md)
+[Link to nested without md](nested)
 
